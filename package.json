@@ -42,6 +42,7 @@
     "redux": "^3.6.0",
     "redux-thunk": "^2.2.0",
     "ember-lodash-shim": "^1.2.0",
+    "lodash-es": "4.17.4",
     "ember-symbol-observable": "^0.1.2",
     "reselect": "^2.5.4",
     "ember-reselect-shim": "^0.1.0",
